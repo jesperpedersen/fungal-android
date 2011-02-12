@@ -1,0 +1,30 @@
+The Fungal kernel
+=================
+
+This is the home of the Fungal kernel project which implements 
+a Plain Old Java Object (POJO) kernel environment for Android.
+
+Highlights of features:
+-----------------------
+* 100% Pure Java 6 implementation
+* Bean definition language
+* Lifecycle of beans
+* Parallel deployment
+* Dependency management
+* Classloader architecture
+* Deployer framework
+* Hot deployment
+* Communication protocol
+* Core services
+
+Homepage:
+---------
+http://jesperpedersen.github.com/fungal-android
+
+Maven2:
+-------
+http://jesperpedersen.github.com/fungal-android/maven2
+
+Project:
+--------
+http://github.com/jesperpedersen/fungal-android
